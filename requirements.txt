@@ -1,0 +1,3 @@
+lyzr_automata
+streamlit
+python-dotenv
